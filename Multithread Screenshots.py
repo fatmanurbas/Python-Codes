@@ -1,4 +1,5 @@
 #takes screenshots per frame
+#could be used in image proccessing
 import cv2
 import threading
 import os
